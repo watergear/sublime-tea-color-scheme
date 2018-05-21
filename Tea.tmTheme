@@ -388,6 +388,32 @@
 				<string>#3F5215</string>
 			</dict>
 		</dict>
+        <dict>
+            <key>name</key>
+            <string>Extra: Diff From</string>
+            <key>scope</key>
+            <string>meta.diff.header.from-file</string>
+            <key>settings</key>
+            <dict>
+                <key>background</key>
+                <string>#E6982560</string>
+                <key>foreground</key>
+                <string>#E6982500</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Extra: Diff To</string>
+            <key>scope</key>
+            <string>meta.diff.header.to-file</string>
+            <key>settings</key>
+            <dict>
+                <key>background</key>
+                <string>#E6982540</string>
+                <key>foreground</key>
+                <string>#E69825</string>
+            </dict>
+        </dict>
 		<dict>
 			<key>name</key>
 			<string>diff.deleted</string>
